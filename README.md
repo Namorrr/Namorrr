@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Namorrr
+- 👀 I’m interested in video games and creating them.
+- 🌱 I’m currently learning with phaser 3, making my own game.
+- 💞️ I’m looking to collaborate on nothing yet.
+- 📫 How to reach me: E-Mail: ramon@djrr.de
